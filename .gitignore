@@ -1,0 +1,13 @@
+# Google OAuth2認証ファイル（絶対にコミットしないこと）
+credentials.json
+token.json
+
+# フォーム作成結果（ローカルのみ）
+form_result.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
